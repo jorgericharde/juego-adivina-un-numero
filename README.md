@@ -40,4 +40,4 @@ No requiere instalación ni dependencias. Abre `index.html` directamente en el n
 
 ## Autor
 
-Jorge Richard
+Ejercicio Alura Latam
